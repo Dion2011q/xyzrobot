@@ -1,3 +1,3 @@
-# xyzrobot
+# xyzrobot - School project
 Official repository for the xyz robot for the school project
-MET PYTHOOOON
+WITH PYTHOOOON
